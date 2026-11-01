@@ -1,5 +1,7 @@
 {
   "yt_url": "https://youtube.com/shorts/GOXIU-o-yk4",
   "video_id": "GOXIU-o-yk4",
-  "type": "shorts"
+  "type": "shorts",
+  "loop_start_seconds": 0,
+  "loop_end_seconds": 10
 }
